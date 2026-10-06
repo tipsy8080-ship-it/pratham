@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="100%" height="100%">
+  <!-- Main Blue Circular Badge -->
+  <circle cx="560" cy="460" r="420" fill="#0C53EC" />
+  
+  <!-- White Graduation Cap -->
+  <!-- Top diamond surface of mortarboard -->
+  <path d="M 560 380 L 780 435 L 560 490 L 340 435 Z" fill="#FFFFFF" />
+  
+  <!-- Lower cap skull base -->
+  <path d="M 430 460 L 430 550 C 430 630 690 630 690 550 L 690 460 C 640 480 600 490 560 490 C 520 490 480 480 430 460 Z" fill="#FFFFFF" />
+  
+  <!-- Cap button on top -->
+  <circle cx="560" cy="435" r="10" fill="#0C53EC" />
+  
+  <!-- Tassel ribbon & tassel -->
+  <path d="M 560 435 Q 400 450 375 510 L 375 540" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" />
+  <!-- Tassel knot and fringe -->
+  <ellipse cx="375" cy="545" rx="14" ry="10" fill="#FFFFFF" />
+  <path d="M 363 552 L 348 640 C 348 650 402 650 402 640 L 387 552 Z" fill="#FFFFFF" />
+  
+  <!-- Gold Rupee Badge on Bottom-Left -->
+  <circle cx="220" cy="780" r="185" fill="#F2A900" />
+  
+  <!-- Rupee Symbol in Navy -->
+  <g fill="#15233F">
+    <!-- Top horizontal bar -->
+    <rect x="155" y="700" width="130" height="22" rx="4" />
+    <!-- Second horizontal bar -->
+    <rect x="155" y="736" width="130" height="22" rx="4" />
+    <!-- Vertical stem & top curve -->
+    <path d="M 185 700 L 185 860 L 210 860 L 210 806 C 248 800 275 775 275 738 C 275 715 255 700 210 700 Z" />
+    <!-- Diagonal leg -->
+    <path d="M 198 798 L 265 865 L 298 865 L 226 792 Z" />
+  </g>
+</svg>

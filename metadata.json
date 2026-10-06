@@ -1,0 +1,8 @@
+{
+  "name": "Education Loan Repayment Planner",
+  "description": "Know what a loan really costs, and whether your family can carry it, before you borrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
